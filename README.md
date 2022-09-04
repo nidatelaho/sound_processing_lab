@@ -1,6 +1,6 @@
 # Sound Processing Lab
 
-A simple application applying a chorus, delay or distortion filter delay on a sound file uploaded by the user, saving the filtered audio as a new sound file. Developed in Python.
+A simple application applying a chorus, delay or distortion filter on a sound file uploaded by the user, saving the filtered audio as a new sound file. Developed in Python.
 
 # Libraries
 
